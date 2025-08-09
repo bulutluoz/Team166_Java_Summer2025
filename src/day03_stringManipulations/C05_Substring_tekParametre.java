@@ -35,5 +35,17 @@ public class C05_Substring_tekParametre {
         // CharAt exception firlatir
         // substring() ise length degeri icin "hiclik" sonucunu dondurur
 
+        str = "Ali";
+
+        // System.out.println(str.charAt(3));// exception verir
+
+        System.out.println(str.substring(3)); // hiclik (bos bir satir) yazdirir
+
+        // length() degerinden buyuk sayilar icin ikisi de exception verir
+
+
+        // System.out.println(str.charAt(5));// exception verir
+
+        // System.out.println(str.substring(5)); // exception verir
     }
 }
