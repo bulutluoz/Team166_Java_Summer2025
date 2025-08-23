@@ -13,6 +13,8 @@ public class C08_ismiDuzenle {
 
         ismiDuzenleYazdir("HASAN","KUCUK");
 
+
+
     }
 
 
