@@ -14,4 +14,8 @@ public class C07_CevizliEkmekClassi extends C05_KuralciParentEkmek{
     public void gramaj() {
 
     }
+
+    // public abstract deneme();
+    // Modifier 'abstract' not allowed here
+    // Concrete bir class icinde abstract method OLUSTURULAMAZ
 }
